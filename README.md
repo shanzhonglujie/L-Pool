@@ -1,7 +1,7 @@
-L-Pool  
+GA-Pool
 =====
 The implementation of L-Pool in our paper:  
-Hongyu Zhao, Jiazhi Xie, Hongbin Wang. "Adaptive Graph Pooling for Propagation Learning"  
+Hongyu Zhao, Jiazhi Xie, Hongbin Wang. "Adaptive Graph Pooling"  
 Here only release the source code of gae-x and vgae-x for link prediction task.
 
 Require

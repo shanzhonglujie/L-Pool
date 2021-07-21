@@ -1,4 +1,4 @@
-GA-Pool
+L-Pool
 =====
 The implementation of L-Pool in our paper:  
 Hongyu Zhao, Jiazhi Xie, Hongbin Wang. "Adaptive Graph Pooling"  

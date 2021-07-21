@@ -1,8 +1,9 @@
 L-Pool  
 =====
 The implementation of L-Pool in our paper:  
-Hongyu Zhao, Jiazhi Xie, Hongbin Wang. "Adaptive Graph Pooling for Learning Enhancement"  
+Hongyu Zhao, Jiazhi Xie, Hongbin Wang. "Adaptive Graph Pooling for Co-Learning"  
 Here only release the source code of gae-x and vgae-x for link prediction task.
+
 Require
 =====
 Python 3.6  
